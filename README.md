@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TsopazangKellyMyra
+- 👋 Hi, I’m @KellyMyra
 - 👀 I’m interested in software development 
 - 🌱 I’m currently learning software engineering 
 - 💞️ I’m looking to collaborate on coding challenges, hackathons
